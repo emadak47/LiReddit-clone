@@ -1,0 +1,17 @@
+#dependencies 
+/node_modules
+
+#misc
+.DS_Store
+
+# dev compiled js code 
+/dist
+
+# logs 
+*.log
+yarn-error.log*
+
+# local env files  
+.env
+
+notes.md 
